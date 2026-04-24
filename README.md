@@ -14,5 +14,5 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
-[https://bike-sharing-dicoding-project-ardifa.streamlit.app/](https://e-commerce-dashboard-ard.streamlit.app/)
+https://e-commerce-dashboard-ard.streamlit.app/
 
